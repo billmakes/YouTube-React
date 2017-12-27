@@ -2,9 +2,14 @@
 
 A YouTube like clone built using the React.js framework.
 
-### Getting Started
+### Installation
 
-To install and run this app use the commands below.
+```
+npm install
+```
 
-> npm install
-> npm start
+### Start Dev Server 
+
+```
+npm start
+```
